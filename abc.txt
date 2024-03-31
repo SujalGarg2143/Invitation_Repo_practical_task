@@ -2,3 +2,4 @@ this is new file
 name is abc
 this file is in git bash
 editing by gitbash
+i am in github remote repo
